@@ -1,0 +1,5 @@
+# Test Fast API Responses
+
+### Test root
+GET http://localhost:8000/
+
